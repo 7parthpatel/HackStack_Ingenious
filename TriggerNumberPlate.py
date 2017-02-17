@@ -1,5 +1,8 @@
+//this code will trigger the number plate detection code, if the captured image file is stored on given folder
+
 import os
 from multiprocessing import Process
+import subprocess
 
 def check_count(folder_name):
 	count_query = 'hadoop fs -ls '+folder_name
