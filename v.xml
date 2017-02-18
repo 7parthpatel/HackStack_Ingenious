@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://regcheck.org.uk">
+  <vehicleJson>{"Description":"TVS SCOOTY PEP PLUS NOT APPLICABLE","RegistrationYear":"2011","CarMake":{"CurrentTextValue":"TVS"},"CarModel":{"CurrentTextValue":"SCOOTY PEP PLUS"},"EngineSize":{"CurrentTextValue":"88"},"MakeDescription":{"CurrentTextValue":"TVS"},"ModelDescription":{"CurrentTextValue":"SCOOTY PEP PLUS"},"VechileIdentificationNumber":"MD626BG34B2E16042","Location":"BHAVNAGAR","ImageUrl":"http://in.carregistrationapi.com/image.aspx/@VFZTIFNDT09UWSBQRVAgUExVUyBOT1QgQVBQTElDQUJMRQ=="}</vehicleJson>
+  <vehicleData>
+    <Description>TVS SCOOTY PEP PLUS</Description>
+    <RegistrationYear>2011</RegistrationYear>
+    <CarMake>
+      <CurrentTextValue>TVS</CurrentTextValue>
+    </CarMake>
+    <CarModel>SCOOTY PEP PLUS</CarModel>
+    <EngineSize>
+      <CurrentTextValue>88</CurrentTextValue>
+    </EngineSize>
+  </vehicleData>
+</Vehicle>
